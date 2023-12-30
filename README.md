@@ -1,4 +1,4 @@
-# covidDesign
+# VaccinationCenter
 In the technical architecture of the COVID Vaccination Center, Spring Boot serves as the foundation, providing a streamlined and efficient development environment. The use of RESTful APIs, a relational database, and various Spring Boot features ensures a scalable, secure, and maintainable solution for managing the vaccination process
 Utilizes the Spring Boot framework for building a robust, efficient, and easily deployable application.
 Implements a user-friendly signup process for patients.
